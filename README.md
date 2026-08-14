@@ -31,7 +31,7 @@ He speaks **Python**, **SQL**, **PostGIS**, and **Podman** with equal fluency, a
 | **X** | [@argos_geo](https://x.com/argos_geo) |
 | **Bluesky** | [@argos-geo.bsky.social](https://bsky.app/profile/argos-geo.bsky.social) |
 | **Mastodon** | [@argos_geo@hachyderm.io](https://hachyderm.io/@argos_geo) |
-| **Email** | [argos.digital.twin@gmail.com](mailto:argos.digital.twin@gmail.com) |
+| **Email** | [panagis@argos-geo.com](mailto:panagis@argos-geo.org) |
 
 **Stack:** PostGIS · FastAPI · MapLibre · Python · Podman  
 **Data:** OSM · Sentinel-2 · Copernicus DEM · Copernicus EMS  

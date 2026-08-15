@@ -29,7 +29,7 @@ He speaks **Python**, **SQL**, **PostGIS**, and **Podman** with equal fluency, a
 | **Website** | [argos-geo.org](https://argos-geo.org) |
 | **GitHub** | [github.com/argos-geo/kefalonia-digital-twin](https://github.com/argos-geo/kefalonia-digital-twin) |
 | **X** | [@argos_geo](https://x.com/argos_geo) |
-| **Bluesky** | [@argos-geo.bsky.social](https://bsky.app/profile/argos-geo.bsky.social) |
+| **Bluesky** | [@argos-geo.bsky.org](https://bsky.app/profile/argos-geo.org) |
 | **Mastodon** | [@argos_geo@hachyderm.io](https://hachyderm.io/@argos_geo) |
 | **Email** | [panagis@argos-geo.com](mailto:panagis@argos-geo.org) |
 

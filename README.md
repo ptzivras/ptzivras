@@ -28,15 +28,15 @@ He speaks **Python**, **SQL**, **PostGIS**, and **Podman** with equal fluency, a
 |:---|:---|
 | **Website** | [argos-geo.org](https://argos-geo.org) |
 | **GitHub** | [github.com/argos-geo/kefalonia-digital-twin](https://github.com/argos-geo/kefalonia-digital-twin) |
-| **X** | [@argos_geo](https://x.com/argos_geo) |
 | **Bluesky** | [@argos-geo.org](https://bsky.app/profile/argos-geo.org) |
 | **Mastodon** | [@argos_geo@hachyderm.io](https://hachyderm.io/@argos_geo) |
+| **X** | [@argos_geo](https://x.com/argos_geo) |
 | **Email** | [panagis@argos-geo.com](mailto:panagis@argos-geo.org) |
 
 **Stack:** PostGIS · FastAPI · MapLibre · Python · Podman  
 **Data:** OSM · Sentinel-2 · Copernicus DEM · Copernicus EMS  
 **Focus:** Wildfire risk · Flood · Tourism pressure  
-**License:** MIT — open source forever
+**License:** MIT - open source forever
 
 ---
 

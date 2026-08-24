@@ -15,7 +15,7 @@
 └─────────────────────────────────────────────────────────┘
 </pre>
 
-**Panagis** is a Data Engineer and GIS Specialist who, by day, keeps geospatial platforms from catching fire — sometimes literally, thanks to his Copernicus EMS integration. By night, he's building **ARGOS**, an open-source digital twin for Kefalonia, because one full-time job and a Mediterranean island clearly weren't enough. 
+**Panagis** is a Data Engineer and GIS Specialist who, by day, keeps geospatial platforms from catching fire, sometimes literally, thanks to his Copernicus EMS integration. By night, he's building **ARGOS**, an open-source digital twin for Kefalonia, because one full-time job and a Mediterranean island clearly weren't enough. 
 
 He speaks **Python**, **SQL**, **PostGIS**, and **Podman** with equal fluency, and firmly believes every problem can be solved with a spatial index and enough coffee. He once explained a spatial join so well that a product manager almost understood it. *Almost*. Currently accepting pull requests and decent souvlaki recommendations.
 

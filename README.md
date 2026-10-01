@@ -44,9 +44,9 @@ He speaks **Python**, **SQL**, **PostGIS**, and **Podman** with equal fluency, a
 | Milestone | Target |
 |---|---|
 | v0.1 Static Core | Oct 2026 |
-| Pilot Live | May 2027 |
-| Multi-Island | Summer 2027 |
-| The Co-op | 2028 |
+| Pilot Live | early 2027 |
+| Multi-Island | late 2027 |
+
 
 ---
 

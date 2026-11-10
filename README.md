@@ -1,7 +1,7 @@
 <pre>
 ┌─────────────────────────────────────────────────────────┐
 │  Panagis Tzivras — Human                                │
-│  Version 40.9 (stable, occasional memory leaks)         │
+│  Version 41.1 (stable, occasional memory leaks)         │
 ├─────────────────────────────────────────────────────────┤
 │  Day Job      │  Keeps databases from burning down      │
 │  Night Job    │  Building ARGOS (open-source digital    │
